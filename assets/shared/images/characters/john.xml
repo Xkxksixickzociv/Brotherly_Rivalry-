@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="john.png">
+<SubTexture name="john danceleft0000" x="288" y="72" width="74" height="58" frameX="-14" frameY="-45" frameWidth="98" frameHeight="111" />
+<SubTexture name="john danceleft0001" x="184" y="178" width="64" height="72" frameX="-19" frameY="-31" frameWidth="98" frameHeight="111" />
+<SubTexture name="john danceleft0002" x="0" y="178" width="56" height="79" frameX="-23" frameY="-23" frameWidth="98" frameHeight="111" />
+<SubTexture name="john danceright0000" x="46" y="0" width="47" height="93" frameX="-28" frameY="-10" frameWidth="98" frameHeight="111" />
+<SubTexture name="john danceright0001" x="147" y="0" width="54" height="86" frameX="-24" frameY="-17" frameWidth="98" frameHeight="111" />
+<SubTexture name="john danceright0002" x="0" y="178" width="56" height="79" frameX="-23" frameY="-23" frameWidth="98" frameHeight="111" />
+<SubTexture name="john down0000" x="0" y="257" width="89" height="65" frameX="-1" frameY="-33" frameWidth="98" frameHeight="111" />
+<SubTexture name="john down0001" x="288" y="0" width="79" height="72" frameX="-4" frameY="-27" frameWidth="98" frameHeight="111" />
+<SubTexture name="john down0002" x="56" y="178" width="72" height="79" frameX="-6" frameY="-23" frameWidth="98" frameHeight="111" />
+<SubTexture name="john left0000" x="0" y="97" width="90" height="81" frameX="-8" frameY="-21" frameWidth="98" frameHeight="111" />
+<SubTexture name="john left0001" x="90" y="97" width="66" height="81" frameX="-32" frameY="-21" frameWidth="98" frameHeight="111" />
+<SubTexture name="john left0002" x="128" y="178" width="56" height="79" frameX="-41" frameY="-22" frameWidth="98" frameHeight="111" />
+<SubTexture name="john right0000" x="201" y="0" width="87" height="81" frameX="0" frameY="-22" frameWidth="98" frameHeight="111" />
+<SubTexture name="john right0001" x="201" y="81" width="71" height="81" frameX="-1" frameY="-22" frameWidth="98" frameHeight="111" />
+<SubTexture name="john right0002" x="128" y="178" width="56" height="79" frameX="-2" frameY="-23" frameWidth="98" frameHeight="111" />
+<SubTexture name="john up0000" x="0" y="0" width="46" height="97" frameX="-28" frameY="-6" frameWidth="98" frameHeight="111" />
+<SubTexture name="john up0001" x="93" y="0" width="54" height="87" frameX="-24" frameY="-15" frameWidth="98" frameHeight="111" />
+<SubTexture name="john up0002" x="128" y="178" width="56" height="79" frameX="-23" frameY="-23" frameWidth="98" frameHeight="111" />
+</TextureAtlas>

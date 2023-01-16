@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="waluigi.png">
+<SubTexture name="waluigi down0000" x="28" y="158" width="32" height="43" frameX="-4" frameY="-11" frameWidth="42" frameHeight="54" />
+<SubTexture name="waluigi down0001" x="113" y="112" width="29" height="45" frameX="-6" frameY="-9" frameWidth="42" frameHeight="54" />
+<SubTexture name="waluigi down0002" x="153" y="0" width="27" height="47" frameX="-7" frameY="-7" frameWidth="42" frameHeight="54" />
+<SubTexture name="waluigi idle0000" x="60" y="158" width="28" height="43" frameX="-4" frameY="-6" frameWidth="35" frameHeight="50" />
+<SubTexture name="waluigi idle0001" x="180" y="45" width="28" height="44" frameX="-4" frameY="-4" frameWidth="35" frameHeight="50" />
+<SubTexture name="waluigi idle0002" x="142" y="112" width="28" height="45" frameX="-4" frameY="-3" frameWidth="35" frameHeight="50" />
+<SubTexture name="waluigi left0000" x="122" y="60" width="29" height="48" frameX="0" frameY="-7" frameWidth="29" frameHeight="55" />
+<SubTexture name="waluigi left0001" x="71" y="60" width="28" height="50" frameX="0" frameY="-5" frameWidth="29" frameHeight="55" />
+<SubTexture name="waluigi left0002" x="0" y="60" width="25" height="52" frameX="-2" frameY="-3" frameWidth="29" frameHeight="55" />
+<SubTexture name="waluigi right0000" x="137" y="158" width="37" height="42" frameX="-2" frameY="-12" frameWidth="46" frameHeight="56" />
+<SubTexture name="waluigi right0001" x="0" y="112" width="33" height="46" frameX="-5" frameY="-8" frameWidth="46" frameHeight="56" />
+<SubTexture name="waluigi right0002" x="33" y="112" width="38" height="46" frameX="-2" frameY="-8" frameWidth="46" frameHeight="56" />
+<SubTexture name="waluigi up0000" x="59" y="0" width="23" height="57" frameX="-5" frameY="-2" frameWidth="32" frameHeight="60" />
+<SubTexture name="waluigi up0001" x="82" y="0" width="25" height="53" frameX="-4" frameY="-6" frameWidth="32" frameHeight="60" />
+<SubTexture name="waluigi up0002" x="46" y="60" width="25" height="51" frameX="-4" frameY="-8" frameWidth="32" frameHeight="60" />
+<SubTexture name="waluigi kick0000" x="241" y="0" width="35" height="40" frameX="-5" frameY="-9" frameWidth="41" frameHeight="49" />
+<SubTexture name="waluigi kick0001" x="174" y="158" width="34" height="42" frameX="-5" frameY="-7" frameWidth="41" frameHeight="49" />
+<SubTexture name="waluigi kick0002" x="180" y="0" width="31" height="45" frameX="-6" frameY="-4" frameWidth="41" frameHeight="49" />
+<SubTexture name="waluigi scare0000" x="71" y="112" width="19" height="46" frameX="-3" frameY="-3" frameWidth="26" frameHeight="51" />
+<SubTexture name="waluigi scare0001" x="180" y="89" width="22" height="44" frameX="-1" frameY="-5" frameWidth="26" frameHeight="51" />
+<SubTexture name="waluigi scare0002" x="88" y="158" width="23" height="43" frameX="-1" frameY="-6" frameWidth="26" frameHeight="51" />
+<SubTexture name="waluigi yeah0000" x="241" y="40" width="17" height="40" frameX="-9" frameY="-2" frameWidth="31" frameHeight="43" />
+<SubTexture name="waluigi yeah0001" x="211" y="42" width="23" height="35" frameX="-6" frameY="-7" frameWidth="31" frameHeight="43" />
+<SubTexture name="waluigi yeah0002" x="241" y="80" width="21" height="39" frameX="-6" frameY="-3" frameWidth="31" frameHeight="43" />
+<SubTexture name="waluigi laugh0000" x="25" y="60" width="21" height="52" frameX="-5" frameY="0" frameWidth="35" frameHeight="53" />
+<SubTexture name="waluigi laugh0001" x="99" y="60" width="23" height="49" frameX="-4" frameY="-4" frameWidth="35" frameHeight="53" />
+<SubTexture name="waluigi laugh0002" x="153" y="47" width="23" height="47" frameX="-4" frameY="-6" frameWidth="35" frameHeight="53" />
+<SubTexture name="waluigi punchup0000" x="0" y="0" width="59" height="60" frameX="-8" frameY="-8" frameWidth="75" frameHeight="68" />
+<SubTexture name="waluigi punchup0001" x="107" y="0" width="46" height="53" frameX="-19" frameY="-7" frameWidth="75" frameHeight="68" />
+<SubTexture name="waluigi punchup0002" x="90" y="112" width="23" height="46" frameX="-19" frameY="-7" frameWidth="75" frameHeight="68" />
+<SubTexture name="waluigi angry0000" x="211" y="0" width="30" height="42" frameX="-3" frameY="-5" frameWidth="38" frameHeight="48" />
+<SubTexture name="waluigi angry0001" x="0" y="158" width="28" height="44" frameX="-4" frameY="-3" frameWidth="38" frameHeight="48" />
+<SubTexture name="waluigi angry0002" x="111" y="158" width="26" height="43" frameX="-5" frameY="-4" frameWidth="38" frameHeight="48" />
+<SubTexture name="waluigi hurt0000" x="0" y="202" width="31" height="32" frameX="-8" frameY="-11" frameWidth="46" frameHeight="44" />
+<SubTexture name="waluigi hurt0001" x="241" y="158" width="27" height="36" frameX="-10" frameY="-7" frameWidth="46" frameHeight="44" />
+<SubTexture name="waluigi hurt0002" x="241" y="119" width="27" height="39" frameX="-10" frameY="-4" frameWidth="46" frameHeight="44" />
+</TextureAtlas>
