@@ -1,0 +1,10 @@
+Zooms in camera
+Cool if paired with Camera Follow Pos
+
+value1 = amount of zoom
+value2 = put a number here (Useless for now maybe)
+
+Default Zoom seems to depend on stages
+I'll maybe figure it out one day
+MAKE SURE THE DAD HITS A NOTE OR ELSE IT WONT 
+ZOOM IN FOR SOME REASON
