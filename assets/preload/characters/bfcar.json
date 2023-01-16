@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bfcar idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bfcar left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bfcar down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bfcar up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bfcar right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bfcar",
+	"position": [
+		-260,
+		-30
+	],
+	"healthicon": "bfcop",
+	"flip_x": true,
+	"healthbar_colors": [
+		137,
+		176,
+		216
+	],
+	"camera_position": [
+		200,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

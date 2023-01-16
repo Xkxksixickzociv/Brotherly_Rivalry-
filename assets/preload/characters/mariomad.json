@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "mariomad idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "mariomad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "mariomad up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-66,
+				-45
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mariomad right"
+		},
+		{
+			"offsets": [
+				-30,
+				18
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mariomad left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mariomad",
+	"position": [
+		160,
+		400
+	],
+	"healthicon": "mario",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		51,
+		102
+	],
+	"camera_position": [
+		-120,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 8.99999999999999
+}

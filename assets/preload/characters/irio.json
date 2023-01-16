@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "irio danceLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "irio danceRight"
+		},
+		{
+			"offsets": [
+				-22,
+				-6
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "irio up"
+		},
+		{
+			"offsets": [
+				0,
+				-90
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "irio down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "irio right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "irio left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/irio",
+	"position": [
+		150,
+		400
+	],
+	"healthicon": "irios",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		255,
+		255
+	],
+	"camera_position": [
+		-580,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 6
+}

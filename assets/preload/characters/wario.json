@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-11,
+				-20
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "wario idle"
+		},
+		{
+			"offsets": [
+				25,
+				-29
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "wario left"
+		},
+		{
+			"offsets": [
+				-29,
+				-74
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "wario right"
+		},
+		{
+			"offsets": [
+				-2,
+				-65
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "wario down"
+		},
+		{
+			"offsets": [
+				-29,
+				-38
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "wario up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				34
+			],
+			"anim": "dope",
+			"fps": 10,
+			"name": "wario dope",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-46
+			],
+			"anim": "shine",
+			"fps": 10,
+			"name": "wario shine",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-47
+			],
+			"anim": "yeah",
+			"fps": 10,
+			"name": "wario yeah",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				16
+			],
+			"anim": "wario",
+			"fps": 10,
+			"name": "wario wario",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-29
+			],
+			"anim": "punchup",
+			"fps": 10,
+			"name": "wario punchup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-11
+			],
+			"anim": "laugh",
+			"fps": 10,
+			"name": "wario laugh",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-18,
+				-75
+			],
+			"anim": "twerk",
+			"fps": 24,
+			"name": "wario throw_it_back",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				78
+			],
+			"anim": "angry",
+			"fps": 10,
+			"name": "wario angry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "ai",
+			"indices": [],
+			"name": "wario ai"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "yeahslow",
+			"fps": 2,
+			"name": "wario wario",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "laughslow",
+			"fps": 2,
+			"name": "wario laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/wario",
+	"position": [
+		180,
+		390
+	],
+	"healthicon": "wario",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		51
+	],
+	"camera_position": [
+		-80,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 9
+}

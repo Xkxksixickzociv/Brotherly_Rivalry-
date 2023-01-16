@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-41,
+				-22
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "waluigi idle"
+		},
+		{
+			"offsets": [
+				-14,
+				23
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "waluigi down"
+		},
+		{
+			"offsets": [
+				-78,
+				77
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "waluigi up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-158,
+				31
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "waluigi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				32
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "waluigi right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				22,
+				-4
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "kick",
+			"indices": [],
+			"name": "waluigi kick"
+		},
+		{
+			"offsets": [
+				-32,
+				24
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "laugh",
+			"indices": [],
+			"name": "waluigi laugh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				-13
+			],
+			"anim": "scared",
+			"fps": 10,
+			"name": "waluigi scare",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-29
+			],
+			"anim": "angry",
+			"fps": 6,
+			"name": "waluigi angry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-68
+			],
+			"anim": "yeah",
+			"fps": 8,
+			"name": "waluigi yeah",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-58
+			],
+			"anim": "hurt",
+			"fps": 8,
+			"name": "waluigi hurt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				228,
+				23
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "punchup",
+			"indices": [],
+			"name": "waluigi punchup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-68
+			],
+			"anim": "yeahslow",
+			"fps": 2,
+			"name": "waluigi yeah",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "laughslow",
+			"fps": 2,
+			"name": "waluigi laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/waluigi",
+	"position": [
+		120,
+		380
+	],
+	"healthicon": "waluigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		0,
+		153
+	],
+	"camera_position": [
+		270,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 9
+}

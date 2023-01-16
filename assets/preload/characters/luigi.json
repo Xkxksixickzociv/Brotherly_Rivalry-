@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "luigi idle"
+		},
+		{
+			"offsets": [
+				36,
+				9
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "luigi left"
+		},
+		{
+			"offsets": [
+				-18,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "luigi down"
+		},
+		{
+			"offsets": [
+				-17,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "luigi right"
+		},
+		{
+			"offsets": [
+				179,
+				90
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "hammer",
+			"indices": [],
+			"name": "luigi hammer"
+		},
+		{
+			"offsets": [
+				55,
+				151
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "thunder",
+			"indices": [],
+			"name": "luigi thunder"
+		},
+		{
+			"offsets": [
+				98,
+				45
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "scared",
+			"indices": [],
+			"name": "luigi scared"
+		},
+		{
+			"offsets": [
+				81,
+				36
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "yeah",
+			"indices": [],
+			"name": "luigi yeah"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "hurt",
+			"indices": [],
+			"name": "luigi hurt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				126
+			],
+			"anim": "jump",
+			"fps": 20,
+			"name": "luigi jump",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "luigi up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/luigi",
+	"position": [
+		80,
+		460
+	],
+	"healthicon": "luigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		215,
+		80
+	],
+	"camera_position": [
+		-150,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 8.99999999999999
+}
