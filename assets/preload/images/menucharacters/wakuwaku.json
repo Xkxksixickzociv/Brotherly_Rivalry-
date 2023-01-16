@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M Dad Idle",
+	"image": "wakuwaku",
+	"position": [
+		227,
+		-87
+	],
+	"flipX": false,
+	"scale": 2.25,
+	"confirm_anim": "M Dad Idle"
+}
